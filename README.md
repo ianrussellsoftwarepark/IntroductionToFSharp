@@ -6,8 +6,8 @@ Code is designed to be run in F# Interactive.
 
 File order:
 
-_notes1.txt
-domain1.fsx
+- _notes1.txt
+- domain1.fsx
 domain2.fsx
 domain3.fsx
 domain4.fsx
