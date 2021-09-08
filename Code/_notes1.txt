@@ -1,0 +1,38 @@
+Introduction to F#
+
+General purpose language 
+.NET (Core)
+
+FSharp.org says:
+
+F# empowers everyone to write succinct, robust and performant code
+
+F# gives you simplicity and succinctness like Python with correctness, robustness 
+and performance beyond C# or Java.
+
+F# is open source, cross-platform and free to use with professional tooling.
+
+Tools
+
+.NET (Core) SDK
+Visual Studio 
+JetBrains Rider
+Visual Studio Code (VS Code)
+
+My Environment:
+- Visual Studio Code (VS Code)
+- ionide-fsharp
+- Fira Code font (ligatures) >= |> >=>
+
+VS Code 1.6 -> editor.bracketPairColorization.enabled: true
+
+Agenda:
+
+Expressive Type System
+Composition using |> (Forward pipe)
+Pattern Matching
+Collections
+F# Interactive
+
+
+

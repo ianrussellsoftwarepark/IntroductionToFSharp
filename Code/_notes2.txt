@@ -1,0 +1,47 @@
+Agenda:
+
+Expressive Type System
+Composition using |> (Forward pipe)
+Pattern Matching
+Collections
+F# Interactive
+
+
+
+What we covered:
+
+Types
+- Records
+- Tuples
+- Discriminated Union
+- Function Signature
+- Type Abbreviation/Alias
+- Unit
+- Option
+- Result
+
+Bindings
+- Let
+
+Functions
+- Pure
+- Curried & Tupled parameters
+- Signatures
+- Forward Pipe
+- Higher Order
+- Partial Application
+- Recursion
+
+Collections
+- Lists & List Module
+- List Comprehensions
+- Array
+
+Pattern Matching
+- Records
+- Tuples
+- Discriminated Unions
+- Lists
+- Arrays
+
+F# Interactive (FSI)
